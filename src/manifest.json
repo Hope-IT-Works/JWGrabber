@@ -6,7 +6,7 @@
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["scripting", "storage","tabs"],
+  "permissions": ["scripting","storage","tabs"],
   "host_permissions": ["<all_urls>"],
   "action": {
     "default_title": "Click"
